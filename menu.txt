@@ -1,0 +1,89 @@
+Soup|Thai Consome|Single|395
+Soup|Thai Consome|Family|1395
+Soup|Vegetable Soup|Single|395
+Soup|Vegetable Soup|Family|1375
+Soup|Hot & Sour Soup|Single|445
+Soup|Hot & Sour Soup|Family|1625
+Soup|Chicken Corn Soup|Single|445
+Soup|Chicken Corn Soup|Family|1625
+Soup|Garlic Mushroom Soup|Single|495
+Soup|Garlic Mushroom Soup|Family|1795
+Soup|19-B Soup|Single|495
+Soup|19-B Soup|Family|1795
+Soup|Dine360 Special Soup|Single|595
+Soup|Dine360 Special Soup|Family|1995
+
+Appetizer|Jumbo Drum Stick (4 pcs)|Regular|1095
+Appetizer|Zinger Drum Stick (4 pcs)|Regular|1095
+Appetizer|Finger Fish (Pangasius - 8 pcs)|Regular|2195
+Appetizer|Finger Fish (Sole - 8 pcs)|Regular|2995
+Appetizer|Dynamite Prawn (5 pcs)|Regular|1895
+Appetizer|Chilli Garlic Shrimp|Regular|1845
+Appetizer|Tempura Prawn (5 pcs)|Regular|2195
+
+Karahi|Lahori Chicken Karahi|Half|1145
+Karahi|Lahori Chicken Karahi|Full|1995
+Karahi|Chicken Gravy Karahi|Half|1195
+Karahi|Chicken Gravy Karahi|Full|2095
+Karahi|Chicken Sulemani Karahi|Full|2195
+Karahi|Chicken Makhni Karahi|Full|2195
+Karahi|Chicken Charsi Karahi|Full|2195
+Karahi|Lahori Mutton Karahi|Half|2595
+Karahi|Lahori Mutton Karahi|Full|4995
+Karahi|Mutton Gravy Karahi|Half|2645
+Karahi|Mutton Gravy Karahi|Full|4995
+Karahi|Mutton Sulemani Karahi|Full|5195
+Karahi|Special Mutton Karahi|Full|4995
+
+BBQ|Chicken Piece (Leg/Breast)|Regular|795
+BBQ|Fish Tikka (Sole - 8 pcs)|Regular|2995
+BBQ|Lahori Fish Seekh Kabab|Regular|2995
+BBQ|Chicken Gaz Kabab|Regular|1795
+BBQ|Beef Gaz Kabab|Regular|1895
+BBQ|Mutton Gaz Kabab|Regular|2595
+BBQ|Veal Kabab (5 pcs)|Regular|1595
+BBQ|Behari Kabab|Regular|1795
+BBQ|Mutton Kabab (5 pcs)|Regular|2395
+BBQ|Lahori / Peshawari Chops|Regular|2995
+
+Platter|Starter Platter|For2|1845
+Platter|Starter Platter|Family|3295
+Platter|BBQ Platter|For2|5995
+Platter|BBQ Platter|Family|9997
+Platter|Kabab Platter|For2|2395
+Platter|Kabab Platter|Family|4495
+Platter|Vegetarian Platter|Family|4995
+Platter|Burger Platter|Family|4995
+Platter|Dine360 Super Platter|Family|19995
+
+Handi|Chicken Boneless Handi|Half|1495
+Handi|Chicken Boneless Handi|Full|2595
+Handi|Chicken Makhni Handi|Half|1495
+Handi|Chicken Makhni Handi|Full|2595
+Handi|Chicken Achari Handi|Half|1495
+Handi|Chicken Achari Handi|Full|2595
+Handi|Chicken Cheese Handi|Half|1595
+Handi|Chicken Cheese Handi|Full|2795
+Handi|Mutton Boneless Handi|Half|2295
+Handi|Mutton Boneless Handi|Full|4095
+Handi|Mutton Makhni Handi|Half|2295
+Handi|Mutton Makhni Handi|Full|4095
+Handi|Mutton Achari Handi|Half|2295
+Handi|Mutton Achari Handi|Full|4095
+
+Dessert|Dine360 Dream Cake|Regular|795
+Dessert|Mughlai Milk Cake|Regular|795
+Dessert|Gulab Jamun|Regular|395
+Dessert|Ras Malai|Regular|445
+Dessert|Gajjar Ka Halwa|Regular|495
+Dessert|Nutella Naan|Regular|445
+Dessert|Oreo Sundae|Regular|395
+Dessert|Biscoff Lotus Sundae|Regular|495
+
+Nashta|Halwa Puri Thaal|Regular|695
+Nashta|Lassi|Regular|395
+Nashta|Karak Chai|Regular|295
+Nashta|Sarson Ka Saag|Regular|1195
+Nashta|Mutton Paya|Regular|1195
+Nashta|Beef Nehari|Regular|1695
+Nashta|Chicken Haleem|Regular|795

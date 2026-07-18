@@ -1,2 +1,2 @@
-# CodeAlpha_SecureCodingReview
-A manual secure coding review of a C++ restaurant management system, identifying critical vulnerabilities including plaintext password storage, hardcoded credentials, and unsanitized input handling with detailed remediation steps and a secure (hashed + salted) password implementation example. 
+# Dine-360---Restaurant-Management-System
+The “Dine360” is a comprehensive software developed in C++ using ObjectOriented Programming (OOP) principles. The system is designed to efficiently manage restaurant operations for both customers and staff. Customers can create accounts, login, reserve tables, choose dine-in or takeaway options, manage items in a shopping cart, and generate bills.

@@ -1,0 +1,35 @@
+ORDER
+Lahori Chicken Karahi,1,1995
+Chicken Gravy Karahi,2,1195
+Chicken Makhni Karahi,1,2195
+Mutton Gravy Karahi,1,4995
+TYPE:1
+STATUS:PENDING
+----------------------
+ORDER
+Lahori Chicken Karahi,1,1995
+Chicken Gravy Karahi,2,1195
+Chicken Makhni Karahi,1,2195
+Mutton Gravy Karahi,1,4995
+TYPE:1
+STATUS:PENDING
+----------------------
+ORDER
+Chicken Makhni Karahi,2,2195
+Starter Platter,2,1845
+BBQ Platter,2,5995
+Kabab Platter,1,2395
+Vegetarian Platter,2,4995
+TYPE:1
+STATUS:PENDING
+----------------------
+ORDER
+Chicken Piece (Leg/Breast),1,795
+TYPE:1
+STATUS:PENDING
+----------------------
+ORDER
+Chicken Piece (Leg/Breast),1,795
+TYPE:1
+STATUS:PENDING
+----------------------

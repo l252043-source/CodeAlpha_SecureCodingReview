@@ -1,0 +1,10 @@
+BBQ Platter (For2),0
+Chicken Gravy Karahi (Half),0
+Chicken Makhni Karahi (Full),0
+Chicken Piece (Leg/Breast) (Regular),0
+Kabab Platter (For2),0
+Lahori Chicken Karahi (Full),0
+Mutton Boneless Handi (Full),0
+Mutton Gravy Karahi (Full),0
+Starter Platter (For2),0
+Vegetarian Platter (Family),0

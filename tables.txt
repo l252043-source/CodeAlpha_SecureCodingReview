@@ -1,0 +1,6 @@
+0,0,Couple
+0,0,Couple
+0,0,Family
+0,0,Family
+0,0,Friends
+0,0,Friends

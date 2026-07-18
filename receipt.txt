@@ -1,0 +1,43 @@
+========= DINE 360 RECEIPT =========
+
+Lahori Chicken Karahi x1 = Rs. 1995
+Chicken Gravy Karahi x2 = Rs. 2390
+Chicken Makhni Karahi x1 = Rs. 2195
+Mutton Gravy Karahi x1 = Rs. 4995
+
+----------------------------------
+TOTAL: Rs. 11575
+Orders served: 1
+==================================
+
+========= DINE 360 RECEIPT =========
+
+Chicken Makhni Karahi x2 = Rs. 4390
+Starter Platter x2 = Rs. 3690
+BBQ Platter x2 = Rs. 11990
+Kabab Platter x1 = Rs. 2395
+Vegetarian Platter x2 = Rs. 9990
+
+----------------------------------
+TOTAL: Rs. 32455
+Orders served: 1
+==================================
+
+========= DINE 360 RECEIPT =========
+
+Chicken Piece (Leg/Breast) x1 = Rs. 795
+
+----------------------------------
+TOTAL: Rs. 795
+Orders served: 1
+==================================
+
+========= DINE 360 RECEIPT =========
+
+Chicken Piece (Leg/Breast) x1 = Rs. 795
+
+----------------------------------
+TOTAL: Rs. 795
+Orders served: 1
+==================================
+
