@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>A manual secure code review of a C++ Restaurant Management System</b><br>
-  Built as part of the <b>CodeAlpha Cyber Security Internship — Task 3</b>
 </p>
 
 <p align="center">
